@@ -16,3 +16,7 @@ release-targeted patches, and retained source overlays.
 See [the build guide](docs/BUILDING.md), [Firefox Git setup](docs/GIT_SETUP.md),
 [release guide](docs/RELEASING.md), and [debugging guide](docs/DEBUGGING.md).
 The complete documentation index is in [docs/README.md](docs/README.md).
+
+**Current built**
+<img width="732" src="https://github.com/user-attachments/assets/4f3f0fc9-5e25-48b6-b57a-7ee9c0412bb7" />
+
